@@ -1,2 +1,2 @@
 # movieApp
-Cretae movie app using ReactJS
+Create movie app using ReactJS
